@@ -8,9 +8,7 @@
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaha-yasin1212%2Fhit-counter" /> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-yasin" /> -->
 
-<img src= "https://github-readme-stats.vercel.app/api?username=taha-yasin&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-yasin&layout=compact" />
 	
 <!--
 **taha-yasin/taha-yasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
